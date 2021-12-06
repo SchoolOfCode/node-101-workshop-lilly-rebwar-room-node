@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SchoolOfCode/node-101-workshop-lilly-rebwar-room-node/issues"
   },
-  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-lilly-rebwar-room-node#readme"
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-lilly-rebwar-room-node#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
 }
